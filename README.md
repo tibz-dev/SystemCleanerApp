@@ -44,3 +44,7 @@ Leave the app running – it cleans automatically.
 	Recycle Bin emptied.
 	Total Freed: 18 MB
 
+📌 Note
+
+This is a console-based utility. A GUI version (WinForms/WPF) is in development for enhanced usability.
+
