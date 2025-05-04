@@ -1,0 +1,14 @@
+C:\Users\sesha\SystemCleanerApp\bin\Debug\net9.0\SystemCleanerApp.exe
+C:\Users\sesha\SystemCleanerApp\bin\Debug\net9.0\SystemCleanerApp.deps.json
+C:\Users\sesha\SystemCleanerApp\bin\Debug\net9.0\SystemCleanerApp.runtimeconfig.json
+C:\Users\sesha\SystemCleanerApp\bin\Debug\net9.0\SystemCleanerApp.dll
+C:\Users\sesha\SystemCleanerApp\bin\Debug\net9.0\SystemCleanerApp.pdb
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\SystemCleanerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\SystemCleanerApp.AssemblyInfoInputs.cache
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\SystemCleanerApp.AssemblyInfo.cs
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\SystemCleanerApp.csproj.CoreCompileInputs.cache
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\SystemCleanerApp.dll
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\refint\SystemCleanerApp.dll
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\SystemCleanerApp.pdb
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\SystemCleanerApp.genruntimeconfig.cache
+C:\Users\sesha\SystemCleanerApp\obj\Debug\net9.0\ref\SystemCleanerApp.dll
