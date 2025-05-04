@@ -35,3 +35,12 @@ Leave the app running – it cleans automatically.
 1. Windows OS
 2. .NET 6 or later
 3. Run as Administrator for full access
+
+✅ Example Log Output
+
+	--- Cleaning started at 2025-05-04 12:00 PM ---
+	Deleted File: C:\Windows\Temp\junk.tmp | Size: 3 KB
+	Deleted File: C:\Users\YourUser\AppData\Local\Temp\cache.txt | Size: 5 KB
+	Recycle Bin emptied.
+	Total Freed: 18 MB
+
